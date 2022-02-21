@@ -7,6 +7,9 @@ import { CitiesComponent } from './cities/cities.component';
 import { CitylistComponent } from './citylist/citylist.component';
 import { SlideshowComponent } from './slideshow/slideshow.component';
 import { PostsComponent } from './posts/posts.component';
+import { CommonModule } from '@angular/common';
+import { FormsModule } from '@angular/forms';
+import { PostFormComponent } from './post-form/post-form.component';
 
 
 @NgModule({
@@ -17,13 +20,16 @@ import { PostsComponent } from './posts/posts.component';
     NavComponent,
 
     SlideshowComponent,
-    PostsComponent
+    PostsComponent,
+    PostFormComponent,
     
 
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    CommonModule,
+    FormsModule
     
   ],
   providers: [],

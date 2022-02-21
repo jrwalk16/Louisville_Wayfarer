@@ -12,7 +12,7 @@ export class PostsComponent implements OnInit {
 cities: any = CITY
 city: any;
 posts: any;
-  
+  // definining data model reflected in the form//
   constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
