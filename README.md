@@ -8,7 +8,7 @@
 2. [ TeamRoles ](#TeamRoles)
 3. [ WireFrame ](#WireFrame)
 4. [ Sprints ](#Sprints)
-5. [ Technologies Used ](#Technologies Used)
+5. [ Technologies-Used ](#Technologies-Used)
 6. [ Resources ](#Resources)
 7. [ Wins and Struggles ](#WinsandStruggles)
 
@@ -22,7 +22,7 @@
 ## 3. Wireframes
 <a name ="Sprints"></a>
 ## 4. Sprints
-<a name ="Technologies Used"></a>
+<a name ="Technologies-Used"></a>
 ## 5. Technologies Used
 
 <a name = "Resources"></a>
