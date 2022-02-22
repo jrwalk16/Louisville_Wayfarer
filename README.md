@@ -97,9 +97,9 @@ Wins -
 Struggles -
 
 ### Noah
-Wins -
+Wins - Getting more experience with routing in angular and really gathering alot of knowledge about angular. HTML and the flow of the pages is something I am proud of, because until this project started I was not very confident in my understanding of angular, now I'd like to think I could do better next time.
 
-Struggles -
+Struggles - There are alot of struggles during project as the class and instructors are well aware of, my largest struggle would have to be communication with the team. All the projects thus far have been indiviual efforts and I know the question I want to ask google. However, when it comes down to a human the question needs to be concise and thought over for it to really make sense.
 
 ### Megan
 Wins - Getting to use CSS again more and trying to figure out how to implement different features like the scroll on a series of horizontal images on our homepage.
