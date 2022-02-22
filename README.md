@@ -71,7 +71,17 @@
 - https://stackoverflow.com/
 - https://www.geeksforgeeks.org/
 - https://www.freecodecamp.org/
-
+- https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp
+- https://stackoverflow.com/questions/22567905/horizontally-scrollable-one-line-gallery-with-css
+- https://tobiasahlin.com/blog/common-flexbox-patterns/#3x3-grid
+- https://www.sitepoint.com/community/t/stopping-css-wrapping/4430/5
+- https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
+- https://www.websitecodetutorials.com/code/photo-galleries/css-horizontal-scroller4-demo.php
+- https://www.w3schools.com/howto/howto_css_image_overlay_slide.asp
+- https://stackoverflow.com/questions/22567905/horizontally-scrollable-one-line-gallery-with-css
+- https://tobiasahlin.com/blog/common-flexbox-patterns/#3x3-grid
+- https://www.sitepoint.com/community/t/stopping-css-wrapping/4430/5
+- https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
 
 
 <a name = "WinsandStruggles"></a>
@@ -92,8 +102,8 @@ Wins -
 Struggles -
 
 ### Megan
-Wins - 
+Wins - Getting to use CSS again more and trying to figure out how to implement different features like the scroll on a series of horizontal images on our homepage.
 
-Struggles - 
+Struggles - Trying to figure out how to translate angular code into sections that can be supported with individual CSS features. For example how to make something like <h1>{{city.name}}</h1> into multiple and separate buttons.
 
 
