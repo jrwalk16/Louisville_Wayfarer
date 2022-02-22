@@ -44,6 +44,9 @@
 ![Screen Shot 2022-02-22 at 9 05 24 AM](https://user-images.githubusercontent.com/87401362/155150565-4a93211a-b2ea-447d-8224-5b60ee7fed31.png)
 - Both of these sprints due to lack of experience with sprints and agile, we collided these into the same sprint and the major team struggle of the program began.
 
+![Screen Shot 2022-02-22 at 10 14 34 AM](https://user-images.githubusercontent.com/87401362/155162072-25a88184-2b87-4535-bb58-fb585fc7d1a0.png)
+- We did not get to this.
+
 <a name ="Technologies-Used"></a>
 ## 5. Technologies Used
 ![Screen Shot 2022-02-22 at 9 28 07 AM](https://user-images.githubusercontent.com/87401362/155152497-c4f7a3af-ba73-4a2a-a298-756cd44686a6.png) 
