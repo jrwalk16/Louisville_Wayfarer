@@ -100,7 +100,7 @@ Struggles - Working as a team takes so much communication.  Getting the group to
 ### Noah
 Wins - Getting more experience with routing in angular and gathering a lot of general knowledge about angular. HTML and the flow of the pages are something I feel pride about. When this project kicked off, I was not very confident in my grasp of angular. Now I do not think I am an angular master, at any rate, I would like to think I could do a reasonably better job next time.
 
-Struggles - There are a lot of blunders during projects, as the class and instructors are well aware of. My biggest struggle would have to be communication with the team. All the projects thus far have been individual efforts, and I know the question I want to ask google. If not, Google will give you a pretty good idea of what it thinks you are trying to ask. However, when it comes down to a human the question needs to be concise and thought over for the question to make sense and help your classmate help you.
+Struggles - There are a lot of blunders during projects, as the class and our instructors are well aware of. My biggest struggle would have to be communication with the team. All the projects thus far have been individual efforts, and I know the question I want to ask google. If not, Google will give you a pretty good idea of what it thinks you are trying to ask. However, when it comes down to a human the question needs to be concise and thought over for the question to make sense and help your classmate help you.
 
 ### Megan
 Wins - Getting to use CSS again more and trying to figure out how to implement different features like the scroll on a series of horizontal images on our homepage.
