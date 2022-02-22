@@ -104,6 +104,6 @@ Struggles -
 ### Megan
 Wins - Getting to use CSS again more and trying to figure out how to implement different features like the scroll on a series of horizontal images on our homepage.
 
-Struggles - Trying to figure out how to translate angular code into sections that can be supported with individual CSS features. For example how to make something like "<h1>{{city.name}}</h1>" into multiple and separate buttons.
+Struggles - Trying to figure out how to translate angular code into sections that can be supported with individual CSS features. For example how to make something like "(<h1>{{city.name}}</h1>)" into multiple and separate buttons.
 
 
