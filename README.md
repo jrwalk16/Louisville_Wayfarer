@@ -43,10 +43,10 @@
 
 <a name ="Technologies-Used"></a>
 ## 5. Technologies Used
-1.![Screen Shot 2022-02-22 at 9 28 07 AM](https://user-images.githubusercontent.com/87401362/155152497-c4f7a3af-ba73-4a2a-a298-756cd44686a6.png)
-- Angular
-2. ![Screen Shot 2022-02-22 at 9 27 45 AM](https://user-images.githubusercontent.com/87401362/155152524-fbf48f2d-24c1-4ac7-b94c-f171f7c258e9.png)
-- HTML
+1.![Screen Shot 2022-02-22 at 9 28 07 AM](https://user-images.githubusercontent.com/87401362/155152497-c4f7a3af-ba73-4a2a-a298-756cd44686a6.png) 2. ![Screen Shot 2022-02-22 at 9 27 45 AM](https://user-images.githubusercontent.com/87401362/155152524-fbf48f2d-24c1-4ac7-b94c-f171f7c258e9.png)
+
+- Angular - HTML
+
 
 3.![Screen Shot 2022-02-22 at 9 27 20 AM](https://user-images.githubusercontent.com/87401362/155152540-a9e9194c-20a7-412e-b5d3-3c2f83e8504f.png)
 - CSS
