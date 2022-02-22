@@ -88,9 +88,9 @@
 <a name = "WinsandStruggles"></a>
 ## 7. Wins and Struggles(in their own words)
 ### Jeremy
-Wins - learned about new features/functions like filter pipes to add search functionality. I still need to discover about how to utilize this on a more advanced level but it was fun to see it work on a basic project/level.
+Wins - Learned about new features/functions like filter pipes to add search functionality. I still need to discover about how to utilize this on a more advanced level but it was fun to see it work on a basic project/level.
 
-Struggles - working with routing/linking aspects of angular. Once we got one step working we ran into issues connecting the next step to previous work.
+Struggles - Working with routing/linking aspects of angular. Once we got one step working we ran into issues connecting the next step to previous work.
 
 ### Brian
 Wins - As the project went on I believe we improved on this process.  Another success was getting the form page almost fully functional.  It was interesting to learn about some of the error handling built in to HTML5.
