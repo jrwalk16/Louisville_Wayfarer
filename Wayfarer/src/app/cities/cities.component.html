@@ -1,4 +1,11 @@
-
+<div class="content" role="main">
+    <div class="card">
+      <div class="form-group">
+        <label for="search-text"></label>
+        <input type="email" class="form-control" id="search-text" aria-describedby="search-text" 
+          [(ngModel)]="searchText" placeholder="Enter text to search" 
+          autofocus>
+      </div>
 <div class="cities-page">
     <div class="city">
         <div>
@@ -8,6 +15,13 @@
         </div>
     <div></div>
     </div>
+    <div class="list-group list-group-flush"> 
+        <!-- results of ngFor is passed to appFilter with argument searchText -->
+          <p class="list-group-item" *ngFor="let c of titles | appFilter: searchText"> 
+         <a>{{c}}</a> 
+         </p> 
+        </div>
+
     <div class="posts">
         <div *ngFor= "let posts of city.posts" >
    
@@ -16,7 +30,8 @@
             <p>{{posts.author}}</p>
           </div>
     </div>
-    
+
+
 </div>
   
   
