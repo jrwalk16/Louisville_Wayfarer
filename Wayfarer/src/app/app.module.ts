@@ -10,7 +10,7 @@ import { PostsComponent } from './posts/posts.component';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { PostFormComponent } from './post-form/post-form.component';
-
+import { FilterPipe } from './pipes/filter.pipe';
 
 @NgModule({
   declarations: [
@@ -22,7 +22,7 @@ import { PostFormComponent } from './post-form/post-form.component';
     SlideshowComponent,
     PostsComponent,
     PostFormComponent,
-    
+    FilterPipe
 
   ],
   imports: [

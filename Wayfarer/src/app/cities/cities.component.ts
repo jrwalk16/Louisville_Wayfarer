@@ -10,7 +10,9 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class CitiesComponent implements OnInit {
 
-    
+  searchText = '';
+  titles = ['Golden Gate Bridge', 'Oracle Park', 'Ghiradelli Square', 'Buckingham Palace', 'Wembley Stadium', 'Big Ben', 'Dolphin Safari Tours', 'Hiking Gibraltar', 'Spanish Coastal Living']
+  
 
 
 cities: any = CITY;
