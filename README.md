@@ -7,15 +7,24 @@
 1. [ Description. ](#desc)
 2. [ Usage tips. ](#usage)
 
-<a name="desc"></a>
+<a name="Description"></a>
 ## 1. Description
 
-sometext
-
-<a name="usage"></a>
+<a name="TeamRoles"></a>
 ## 2. Usage tips
 
-sometext
+<a name="WireFrame"></a>
+## 3. Wireframes
+<a name ="Sprints"></a>
+## 4. Sprints
+<a name ="Technologies Used"></a>
+## 5. Technologies Used
+
+<a name = "Resources"></a>
+## 6. Resources
+<a name = "WinsandStruggles"></a>
+## 7. Wins and Struggles
+
 
 ## Team Roles
 
@@ -27,7 +36,7 @@ sometext
 
 ## Resources 
 
-## Struggles/Wins
+## Wins and Struggles
 ### Jeremy -
 #### Wins -
 #### Struggles -
