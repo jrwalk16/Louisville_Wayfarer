@@ -37,6 +37,7 @@
 <a name ="Sprints"></a>
 ## 4. Sprints
 ![Screen Shot 2022-02-22 at 9 04 59 AM](https://user-images.githubusercontent.com/87401362/155150672-f8bff2c0-d4e6-4547-84e6-abbad7db81da.png)
+- This sprint was finished in the first day after a few hiccups with git and some pointers from the instructors our heros were off to the races.
 
 ![Screen Shot 2022-02-22 at 9 05 11 AM](https://user-images.githubusercontent.com/87401362/155150609-29f67faf-7a1c-43b5-aa47-bfe86450bb59.png)
 
