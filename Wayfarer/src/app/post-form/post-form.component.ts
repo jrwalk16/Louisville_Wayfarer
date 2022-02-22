@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./post-form.component.css']
 })
 export class PostFormComponent {
-  log(name: any){console.log(name);
+  log(authorName: any){console.log(authorName);
   }
 
 
