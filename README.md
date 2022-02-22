@@ -87,9 +87,9 @@
 <a name = "WinsandStruggles"></a>
 ## 7. Wins and Struggles(in their own words)
 ### Jeremy
-Wins - 
+Wins - learned about new features/functions like filter pipes to add search functionality. I still need to discover about how to utilize this on a more advanced level but it was fun to see it work on a basic project/level.
 
-Struggles -
+Struggles - working with routing/linking aspects of angular. Once we got one step working we ran into issues connecting the next step to previous work.
 
 ### Brian
 Wins -
@@ -97,9 +97,9 @@ Wins -
 Struggles -
 
 ### Noah
-Wins - Getting more experience with routing in angular and really gathering alot of knowledge about angular. HTML and the flow of the pages is something I am proud of, because until this project started I was not very confident in my understanding of angular, now I'd like to think I could do better next time.
+Wins - Getting more experience with routing in angular and gathering a lot of general knowledge about angular. HTML and the flow of the pages are something I feel pride about. When this project kicked off, I was not very confident in my grasp of angular. Now I do not think I am an angular master, at any rate, I would like to think I could do a reasonably better job next time.
 
-Struggles - There are alot of struggles during project as the class and instructors are well aware of, my largest struggle would have to be communication with the team. All the projects thus far have been indiviual efforts and I know the question I want to ask google. However, when it comes down to a human the question needs to be concise and thought over for it to really make sense.
+Struggles - There are a lot of blunders during projects, as the class and instructors are well aware of. My biggest struggle would have to be communication with the team. All the projects thus far have been individual efforts, and I know the question I want to ask google. If not, Google will give you a pretty good idea of what it thinks you are trying to ask. However, when it comes down to a human the question needs to be concise and thought over for the question to make sense and help your classmate help you.
 
 ### Megan
 Wins - Getting to use CSS again more and trying to figure out how to implement different features like the scroll on a series of horizontal images on our homepage.
