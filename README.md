@@ -33,6 +33,14 @@
 
 <a name ="Technologies-Used"></a>
 ## 5. Technologies Used
+1. https://cdn.logojoy.com/wp-content/uploads/2017/07/angular-icon-vector-1024x788.png
+- Angular
+2. https://image.flaticon.com/icons/png/512/919/919827.png
+- HTML
+3. https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3%26pid%3DApi&f=1
+- CSS
+4. https://zhengtengfei.gallerycdn.vsassets.io/extensions/zhengtengfei/tjgogo/0.1.2/1544258285972/Microsoft.VisualStudio.Services.Icons.Default
+- JavaScript and TypeScript
 
 <a name = "Resources"></a>
 ## 6. Resources
