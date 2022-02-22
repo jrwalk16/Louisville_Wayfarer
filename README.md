@@ -19,7 +19,7 @@
 ## 2. The Villians and their Roles
 
 ### Brian
-- Brian "PM" Habeeb took charge as the make shift SCRUM master of the group and put in alot of hours collaberating with the enitre team to get this project of the ground. With his many years in managing people it was guarenteed to be the right fit. 
+- Brian "Bhab the Arab" Habeeb took charge as the make shift SCRUM master of the group and put in alot of hours collaberating with the enitre team to get this project of the ground. With his many years in managing people it was guarenteed to be the right fit. 
 ### Megan 
 - Megan "The artist" Kociscak was the number one pick for all things CSS and visual. She was key in the beautifacation of this website and finally found a use for that masters degree.
 ### Jeremy
