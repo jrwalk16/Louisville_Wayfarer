@@ -14,9 +14,18 @@
 
 <a name="Description"></a>
 ## 1. Description
+  For this project the "Louisvillians" were hired by the General Assembly, Java immersive cohort 12-6 instructors to create an Angular website that allows a travel community to view and post pictures as well as posts for all community member's of Wayfarer to view. Through using git collaboration and grit collaboration the villians were able to put their heads together and present this project.
 
 <a name="TeamRoles"></a>
 ## 2. Team Roles
+### Brian
+- Brian Habeeb took charge as the make shift SCRUM master of the group and put in alot of hours collaberating with the enitre team to get this project of the ground. With his many years in managing people it was guarenteed to be the right fit. 
+### Megan 
+- Megan "The artist" Kociscak was the number one pick for all things CSS and visual. She was key in the beautifacation of this website and finally found a use for that masters degree.
+### Jeremy
+- Jeremy "The iceman" Walker, the former accountant, Mr. Logic himself, spent countless hours researching and implementing code that allowed the team and the project to take shape. Also Jeremy was the git control man, if it was not a sound and coherent pull request, it was not "gitting" merged. 
+### Noah
+- Noah "I forgot you were in this cohort" Dickerson along with Jeremey spent hours on the overall flow and logic of the project and wrote this amazing Readme before you. 
 
 <a name="WireFrame"></a>
 ## 3. Wireframes
