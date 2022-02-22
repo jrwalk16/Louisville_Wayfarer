@@ -7,19 +7,25 @@ minlength="3"
 maxlength="16" 
 ngModel 
 name = "authorName" 
-#authorName='ngModel' 
+#authorName="ngModel" 
 (change)="log(authorName)" 
 id="authorName" 
 type="text" 
 class="form-control">
 <div 
 class="alert alert-danger" 
-*ngIf="authorName.touched && !authorName.valid">
+*ngIf="(authorName.touched || authorName.dirty) && !authorName.valid">
     <div *ngIf="authorName.errors">
+        Enter author name.
+    </div>
+    <div *ngIf="authorName.errors?.['required']">
         Author name is required.
     </div>
-    <div *ngIf="authorName.errors">
-        Author name should have at least three characters.
+    <div *ngIf="authorName.errors?.['minlength']">
+        Author name must be a minimum of three characters.
+    </div>
+    <div *ngIf="authorName.errors?.['maxlength']">
+        Author name can only have a maximum of 16 characters.
     </div>
 </div>
 </div>
@@ -27,31 +33,66 @@ class="alert alert-danger"
     <label for="cityName">
         City
     </label>
-    <input id="cityName" 
+    <input 
+    required
+    minlength="3"
+    maxlength="16"
+    ngModel
+    name = "cityName"
+    #cityName="ngModel"
+    id="cityName"
     type="text" 
     class="form-control">
-    </div>
 <div class="form-group">
+    <div
+    class="alert alert-danger"
+    *ngIf="(cityName.touched || cityName.dirty) &&  cityName.invalid">
+    <div *ngIf="cityName.errors?.['required']">
+        Name of city required.
+    </div>
+    <div *ngIf="cityName.errors?.['minlength']">
+        City name must be a minimum of three characters.
+    </div>
+</div>
+</div>
+<div>
     <label for="title">
         Title
     </label>
     <input 
-    id="titleName" 
+    required
+    ngModel
+    name = "title"
+    #title ="ngModel"
+    id="title" 
     type="text" 
     class="form-control">
     </div>
+    </div>
+    <div>
     <div class="form-group">
         <label for="body">Body</label>
-        <textarea 
+        <textarea
+        required 
+        maxlength="500"
         ngModel 
         name="body" 
+        #body="ngModel"
         id="body" 
         cols="30" 
         rows="10" 
         class="form-control">
+        <div
+        class="alert alert-danger"
+        *ngIf="(body.touched || body.dirty) &&  body.invalid">
+        *ngIf="body.errors?.['required']">
+        Body of post required.
+    </div>
+    <div ngIf="body.errors?.['maxlength']">
+        Body can not exceed 500 characters.
+    </div>
     </textarea>
     </div>
 <button class="btn btn-primary">
     Submit
 </button>
-</form>
