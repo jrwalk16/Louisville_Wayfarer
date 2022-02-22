@@ -1,11 +1,16 @@
 # Louisville_Wayfarer
 ![IMG_0713](https://user-images.githubusercontent.com/87401362/154346161-dc442d22-39d9-4923-94dd-c693b955ed43.jpg)
 
-## Project Description
+
 
 ## Table of Content
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+1. [ Description ](#desc)
+2. [ TeamRoles ](#TeamRoles)
+3. [ WireFrame ](#WireFrame)
+4. [ Sprints ](#Sprints)
+5. [ Technologies Used ](#Technologies Used)
+6. [ Resources ](#Resources)
+7. [ Wins and Struggles ](#WinsandStruggles)
 
 <a name="Description"></a>
 ## 1. Description
@@ -26,27 +31,4 @@
 ## 7. Wins and Struggles
 
 
-## Team Roles
-
-## Wireframe
-
-## Sprints
-
-## Technologies Used
-
-## Resources 
-
-## Wins and Struggles
-### Jeremy -
-#### Wins -
-#### Struggles -
-### Brian - 
-#### Wins -
-#### Struggles -
-### Megan -
-#### Wins - 
-#### Struggles -
-### Noah -
-#### Wins - 
-#### Struggles - 
 
