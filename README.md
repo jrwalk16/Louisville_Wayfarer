@@ -5,7 +5,7 @@
 
 ## Table of Content
 1. [ Description ](#desc)
-2. [ TeamRoles ](#TeamRoles)
+2. [ Team-Roles ](#TeamRoles)
 3. [ WireFrame ](#WireFrame)
 4. [ Sprints ](#Sprints)
 5. [ Technologies-Used ](#Technologies-Used)
@@ -16,7 +16,7 @@
 ## 1. Description
 
 <a name="TeamRoles"></a>
-## 2. Usage tips
+## 2. Team Roles
 
 <a name="WireFrame"></a>
 ## 3. Wireframes
