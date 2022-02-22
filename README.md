@@ -32,6 +32,7 @@
 ## 3. Wireframes
 ![Screen Shot 2022-02-22 at 9 04 07 AM](https://user-images.githubusercontent.com/87401362/155150247-d3e3a4fa-c944-4b8d-803e-50bde352dc42.png)
 ![Screen Shot 2022-02-22 at 9 04 30 AM](https://user-images.githubusercontent.com/87401362/155150454-414e187c-e127-4323-ab0f-1b750de6e580.png)
+  - Using these wireframes we had good idea how the overall look of the webpage and the structure the client wanted.
 
 <a name ="Sprints"></a>
 ## 4. Sprints
