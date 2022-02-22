@@ -42,6 +42,7 @@
 ![Screen Shot 2022-02-22 at 9 05 11 AM](https://user-images.githubusercontent.com/87401362/155150609-29f67faf-7a1c-43b5-aa47-bfe86450bb59.png)
 
 ![Screen Shot 2022-02-22 at 9 05 24 AM](https://user-images.githubusercontent.com/87401362/155150565-4a93211a-b2ea-447d-8224-5b60ee7fed31.png)
+- Both of these sprints due to lack of experience with sprints and agile, we collided these into the same sprint and the major team struggle of the program began.
 
 <a name ="Technologies-Used"></a>
 ## 5. Technologies Used
@@ -71,7 +72,18 @@
 
 
 <a name = "WinsandStruggles"></a>
-## 7. Wins and Struggles
-
+## 7. Wins and Struggles(in their own words)
+### Jeremy
+Wins - 
+Struggles -
+### Brian
+Wins -
+Struggles -
+### Noah
+Wins - 
+Struggles -
+### Megan
+Wins - 
+Struggles - 
 
 
