@@ -82,6 +82,7 @@
 - https://tobiasahlin.com/blog/common-flexbox-patterns/#3x3-grid
 - https://www.sitepoint.com/community/t/stopping-css-wrapping/4430/5
 - https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
+- https://angular.io/guide/forms
 
 
 <a name = "WinsandStruggles"></a>
@@ -92,9 +93,9 @@ Wins - learned about new features/functions like filter pipes to add search func
 Struggles - working with routing/linking aspects of angular. Once we got one step working we ran into issues connecting the next step to previous work.
 
 ### Brian
-Wins -
+Wins - As the project went on I believe we improved on this process.  Another success was getting the form page almost fully functional.  It was interesting to learn about some of the error handling built in to HTML5.
 
-Struggles -
+Struggles - Working as a team takes so much communication.  Getting the group together, talking about a plan, and executing that plan never seemed to go quite as smooth as I had hoped.  Assigning tasks that were meant to be isolated also felt not as successful as initially expected.  Questions would come up almost immediately after breaking.  I learned that I need to get better at planning, explaining and implementing a strategy as Scrum Master.
 
 ### Noah
 Wins - Getting more experience with routing in angular and gathering a lot of general knowledge about angular. HTML and the flow of the pages are something I feel pride about. When this project kicked off, I was not very confident in my grasp of angular. Now I do not think I am an angular master, at any rate, I would like to think I could do a reasonably better job next time.
