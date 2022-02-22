@@ -17,8 +17,8 @@
   For this project the "Louisvillians" were hired by the General Assembly, Java immersive cohort 12-6 instructors to create an Angular website that allows a travel community to view and post pictures as well as blog posts for all community member's of Wayfarer to view. Through using git collaboration and grit collaboration the villians were able to put their heads together and present this project. This is their story...
 
 <a name="TeamRoles"></a>
-## 2. Team Roles
-## The Lousivillians
+## 2. The Villians and their Roles
+
 ### Brian
 - Brian "PM" Habeeb took charge as the make shift SCRUM master of the group and put in alot of hours collaberating with the enitre team to get this project of the ground. With his many years in managing people it was guarenteed to be the right fit. 
 ### Megan 
