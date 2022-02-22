@@ -1,37 +1,49 @@
 <div class="content" role="main">
-    <div class="card">
-      <div class="form-group">
-        <label for="search-text"></label>
-        <input type="email" class="form-control" id="search-text" aria-describedby="search-text" 
-          [(ngModel)]="searchText" placeholder="Enter text to search" 
-          autofocus>
-      </div>
+  <div class="card">
+    <div class="form-group">
+      <label for="search-text"></label>
+      <input type="email" class="form-control" id="search-text" aria-describedby="search-text"
+        [(ngModel)]="searchText" placeholder="Enter text to search"
+        autofocus>
+    </div>
 <div class="cities-page">
-    <div class="city">
-        <div>
-            <div>
-             <h1>{{city.name}}</h1>  
-             </div>
-        </div>
-    <div></div>
-    </div>
-    <div class="list-group list-group-flush"> 
-        <!-- results of ngFor is passed to appFilter with argument searchText -->
-          <p class="list-group-item" *ngFor="let c of titles | appFilter: searchText"> 
-         <a>{{c}}</a> 
-         </p> 
-        </div>
-
-    <div class="posts">
-        <div *ngFor= "let posts of city.posts" >
-   
-        <div>
-           <h2><a routerLink = "/cities/{{city.id}}/posts/{{posts.id}}" >{{posts.title}}</a></h2> 
-            <p>{{posts.author}}</p>
-          </div>
-    </div>
-
-
+  <div class="city">
+      <div>
+          <div>
+           <h1>{{city.name}}</h1>
+           </div>
+      </div>
+  <div></div>
+  </div>
+  <div class="list-group list-group-flush">
+      <!-- results of ngFor is passed to appFilter with argument searchText -->
+        <p class="list-group-item" *ngFor="let c of titles | appFilter: searchText">
+       <a>{{c}}</a>
+       </p>
+      </div>
+  <div class="posts">
+      <div *ngFor= "let posts of city.posts" >
+      <div>
+         <h2><a routerLink = "/cities/{{city.id}}/posts/{{posts.id}}" >{{posts.title}}</a></h2>
+          <p>{{posts.author}}</p>
+      </div>
+      </div>
+  <router-outlet></router-outlet>
+  </div>
 </div>
-  
-  
+<body>
+<!-- <div class ="container">
+  <div class="item" id="SF">SanFrancisco</div>
+  <div class="item">Gibralter</div>
+  <div class="item">London</div>
+  <div class="item">Louisville</div>
+  <div class="item">Wellington</div>
+</div> -->
+<div class ="containerPosts">
+  <div class="item2"></div>
+  <div class="item2"></div>
+</div>
+<div class ="containerImage">
+  <div class="item3" >{{city.name}}</div>
+</div>
+</body>
