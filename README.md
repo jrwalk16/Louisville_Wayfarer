@@ -78,15 +78,22 @@
 ## 7. Wins and Struggles(in their own words)
 ### Jeremy
 Wins - 
+
 Struggles -
+
 ### Brian
 Wins -
+
 Struggles -
+
 ### Noah
-Wins - 
+Wins -
+
 Struggles -
+
 ### Megan
 Wins - 
+
 Struggles - 
 
 
